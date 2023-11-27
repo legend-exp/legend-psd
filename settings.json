@@ -1,0 +1,10 @@
+{
+    "data_path": "/global/cfs/cdirs/m2676/data/lngs/l200/public/prodenv/prod-blind/ref/",
+    "partitions": {
+        "2": ["p06-r006", "p07-r001"],
+        "1": ["p07-r007", "p07-r008"]
+    },
+    "survival_fractions":{
+        "sf_TlDEP": ["results", "aoe", "low_side_sfs", "1592.5"]
+    }
+}
